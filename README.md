@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+Howdy!
+My name Daniel, and I work as a software developer at [General Motors](https://www.gm.com/) as part of a Advanced Applications and Computer Vision Team.
+
+I am a highly passionate individual with a focus on advancing my career in AI/ML and Data Science. 
+
+### What I do
+
+☕ I'm currently working at GM on ...
+* Hardware/software integrations
+* PSQL/SpringJPA along with Database work
+* Front-end development of internal products
+* Microservices and Containerizing legacy applications
+* Continous Education of ML/AI and Data Science techniques and development.
+
+### Goals, Projects, and More ...
