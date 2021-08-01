@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![The San Juan Mountains are beautiful!](https://images.unsplash.com/photo-1548222744-3db85aa5b0f9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80")
+  
+
 ### About Me
 Howdy!
 My name Daniel, and I work as a *Software Developer* at [General Motors](https://www.gm.com/) as part of a Advanced Applications and Computer Vision Team.
