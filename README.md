@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### About Me
 Howdy!
-My name Daniel, and I work as a *Software Developer* at [General Motors](https://www.gm.com/) as part of a Advanced Applications and Computer Vision Team.
+My name is Daniel, and I work as a *Software Developer* at [General Motors](https://www.gm.com/) as part of a Advanced Applications and Computer Vision Team.
 
 I am a highly passionate individual with a focus on advancing my career in AI/ML and Data Science. Finally, I am a loud and proud Texas Aggie!👍
 
