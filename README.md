@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ![The San Juan Mountains are beautiful!](https://images.unsplash.com/photo-1548222744-3db85aa5b0f9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80")
   
 
-### About Me
+## About Me
 Howdy!
-My name is Daniel, and I work as a *Software Developer* at [General Motors](https://www.gm.com/) as part of a Advanced Applications and Computer Vision Team.
+My name is Daniel, and I work as a *Software Developer* at [General Motors](https://www.gm.com/) as part of a **Advanced Applications and Computer Vision Team.**
 
 I am a highly passionate individual with a focus on advancing my career in AI/ML and Data Science. Finally, I am a loud and proud Texas Aggie!👍
 
-### What I do
+## What I do
 
 ☕ I'm currently working at GM on ...
 * Hardware/software integrations
@@ -33,7 +33,7 @@ I am a highly passionate individual with a focus on advancing my career in AI/ML
 * Microservices and Containerizing legacy applications
 * Continous Education of ML/AI and Data Science techniques and development.
 
-### Goals, Projects, and More ...
+## Goals, Projects, and More ...
 
 Outside Work, I am focusing on developing my skills, expanding my network, as well as having fun with it!
 
